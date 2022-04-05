@@ -3,5 +3,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  resources :contacts, only: [:new, :create]
   root to: "visitors#new"
 end
