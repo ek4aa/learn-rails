@@ -48,7 +48,7 @@ gem "rails_layout"
 gem "turbolinks"
 gem "bootstrap-sass"
 gem "jquery-rails"
-gem "rufo"
+gem "high_voltage"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
